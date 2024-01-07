@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "64f5d8eb553bdb0ab7772d02"
+  },
+  "name": "M40",
+  "price": "500",
+  "category": "Mobile",
+  "userId": "64ec3877dd92f40a2d2cc135",
+  "company": "Tata",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5dc39553bdb0ab7772d13"
+  },
+  "name": "M70",
+  "price": "550",
+  "category": "Mobile",
+  "userId": "64ec3877dd92f40a2d2cc135",
+  "company": "Tata",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5de76553bdb0ab7772d15"
+  },
+  "name": "U105",
+  "price": "100",
+  "category": "Mobile",
+  "userId": "64ec3877dd92f40a2d2cc135",
+  "company": "Apple",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5df40553bdb0ab7772d1c"
+  },
+  "name": "M801",
+  "price": "5900",
+  "category": "Mobile",
+  "userId": "64ec3877dd92f40a2d2cc135",
+  "company": "tata",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5df49553bdb0ab7772d1e"
+  },
+  "name": "G90",
+  "price": "220",
+  "category": "Mobile",
+  "userId": "64ec3877dd92f40a2d2cc135",
+  "company": "Samsung",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5e150553bdb0ab7772d26"
+  },
+  "name": "G10",
+  "price": "210",
+  "category": "Mobile",
+  "userId": "64ec3877dd92f40a2d2cc135",
+  "company": "Micromax",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650454637dfaff1317f08abd"
+  },
+  "name": "M101",
+  "price": "6150",
+  "category": "Mobile",
+  "userId": "64ec3877dd92f40a2d2cc135",
+  "company": "Jio",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506a819859d9a0713594741"
+  },
+  "name": "Qw",
+  "price": "340",
+  "category": "Mobile",
+  "userId": "64ec3877dd92f40a2d2cc135",
+  "company": "Dev",
+  "__v": 0
+}]

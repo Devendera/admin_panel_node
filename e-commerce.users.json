@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "64ec3877dd92f40a2d2cc135"
+  },
+  "name": "Dev",
+  "email": "dev@gmail.com",
+  "password": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f2d95a6099250ee4f5f7d0"
+  },
+  "name": "test",
+  "email": "test@gmail.com",
+  "password": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f36f5451f89872a0fda0a2"
+  },
+  "name": "ajay",
+  "email": "ajay@bhai.com",
+  "password": "ajay",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6502e8f9d0354ff5bb2fe835"
+  },
+  "name": "Deva",
+  "email": "test1@gmail.com",
+  "password": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503b9aeda290217842d1598"
+  },
+  "name": "shivam",
+  "email": "shivam@gmail.com",
+  "password": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65044465a6f9b19753001bee"
+  },
+  "name": "lee",
+  "email": "lee@test.com",
+  "password": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65044ad7a6f9b19753001bfd"
+  },
+  "name": "mahes",
+  "email": "m@test.com",
+  "password": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65044b38a6f9b19753001c01"
+  },
+  "name": "new",
+  "email": "new@gmail.com",
+  "password": "test",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65044b5ba6f9b19753001c04"
+  },
+  "name": "new",
+  "email": "new@gmail.com",
+  "password": "new",
+  "__v": 0
+}]
